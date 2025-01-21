@@ -1,12 +1,12 @@
 <center>
 <h1 align="center">Hi 👋, I'm Raff Gustafio Fernando Lobo</h1>
-<h3 align="center">A passionate UI/UX Designer, Front End Devs from Indonesia</h3>
+<h3 align="center">A passionate UI/UX Designer, Content Creator, Visual Designer a</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffgustafio&label=Profile%20views&color=0e75b6&style=flat" alt="raffgustafio" /> </p>
 
-- 🌱 I’m currently learning **Webflow, Framer**
+- 🌱 I’m currently learning **Webflow, Frame**
 
-- 💬 Ask me about **UI/UX**
+- 💬 Ask me about **UI/UX, Graphic Design, Logo Design, Content Creation**
 
 - 📫 How to reach me **raffgustafioflobo@gmail.com**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/metsande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="finoceann" height="30" width="40" /></a>
-<a href="https://instagram.com/metsande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="metsande" height="30" width="40" /></a>
+<a href="https://instagram.com/fio.wav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fiowav" height="30" width="40" /></a>
 <a href="https://dribbble.com/raffgustafio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="raffgustafio" height="30" width="40" /></a>
 <a href="https://www.behance.net/raffgufernand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raffgufernand" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/finoceann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="finoceann" height="30" width="40" /></a>
